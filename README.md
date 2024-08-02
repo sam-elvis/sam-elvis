@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam-elvis
-- 👀 I’m interested in ...kali linux
-- 🌱 I’m currently learning ...Diploma in IT
-- 💞️ I’m looking to collaborate on ...kali linux
+- 👀 I’m interested in ...Flask web developments 
+- 🌱i have done DIT
+- 💞️ I’m looking to collaborate on web development using flask
 - 📫 How to reach me ...samuelevis695@gmail.com
 
 <!---
